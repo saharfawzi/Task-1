@@ -1,6 +1,6 @@
 # Task-1
 HTML
 
-##first Projict
+##first Project
 ###using HTML
 
